@@ -2,7 +2,7 @@
 
 ## Copyright (c) 2018, All rights reserved
 
-This is an implementation of the class MineSweeper game from Microsoft.
+This is an implementation of the classic MineSweeper game from Microsoft.
 
 Here's someone else's video on how to play it: https://www.youtube.com/watch?v=dvvrOeITzG8
 
